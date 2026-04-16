@@ -2,6 +2,6 @@
 
 Data Analyst · Canberra, Australia
 
-Python · SQL · Power BI · Azure · OpenAI API
+Data Analyst · AI-augmented workflows · Python · SQL · Power BI · API · MCP
 
 [LinkedIn](https://linkedin.com/in/sairanganath95)
